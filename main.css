@@ -1,0 +1,38 @@
+body {
+  font-family: 'Ubuntu Mono', monospace;
+  color: hsla(300, 15%, 30%, 0.84);
+}
+
+section {
+  padding-left: 20px;
+}
+
+h1 {
+  color: #ffd633;
+}
+
+h3 {
+  color: #ffd633;
+  margin: 0;
+}
+
+p {
+  width: 90%;
+  max-width: 600px;
+}
+
+a {
+  color: hsla(300, 15%, 30%, 0.84);
+}
+
+a:hover {
+  color: #ffd633;
+}
+
+time {
+  color: #ffd633;
+}
+
+hr {
+  border-color: hsla(52, 2%, 74%, 0.16);
+}
