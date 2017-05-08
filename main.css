@@ -14,11 +14,13 @@ h1 {
 h3 {
   color: #ffd633;
   margin: 0;
+  font-size: 1em;
 }
 
 p {
   width: 90%;
   max-width: 600px;
+  line-height: 1.2em;
 }
 
 a {
@@ -35,4 +37,21 @@ time {
 
 hr {
   border-color: hsla(52, 2%, 74%, 0.16);
+}
+
+.experience-head p {
+  margin: 0;
+}
+
+.project {
+  margin-bottom: 30px;
+}
+
+.project p {
+  margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  h2 { font-size: 16px; }
+  p { font-size: 12px; }
 }
