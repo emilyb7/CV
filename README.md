@@ -36,5 +36,8 @@ Campanda is an international ecommerce platform for motorhome and caravan rental
 ## Education
 University of Leeds - BA German (1st class) - 2008-2012
 
+## Me as a developer
+I'm always learning something new and am curious about new frameworks, languages and technologies. I love learning through making things. I'm not afraid to tackle a problem on my own, but I also enjoy the support of a team around me.
+
 ## Links
 [LinkedIn]
