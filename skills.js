@@ -125,9 +125,12 @@ var skills = [
   },
 ];
 
-var buttonState = {
-  selectedCategories: uniqueCategories(skills),
-}
+var activeButtons = uniqueCategories(skills).map(function(button) {
+  return {
+    button: button,
+    active: true,
+  }
+});
 
 function uniqueCategories() {
   return skills.map(function(skill) {
@@ -222,23 +225,53 @@ function render(skillsArray) {
   });
 }
 
-function shuffle() {
+function renderButtons() {
+  var buttons = document.querySelector('#buttons');
+  while (buttons.firstChild) buttons.removeChild(buttons.firstChild);
 
+  var buttonsContainer = document.querySelector('#buttons');
+
+  activeButtons.forEach(function(button) {
+    var color = colorIt(button.button);
+    var opacity = button.active ? 'o-100' : 'o-50';
+    var classNames = 'link tc pv2 ph3 ml2 white br-pill pointer bg-' + color + ' ' + opacity;
+    var newButton = createEl('div', buttonsContainer, classNames);
+    newButton.innerHTML = button.button;
+    newButton.addEventListener('click', toggleActive);
+  });
+}
+
+function toggleActive(e) {
+  var arrayLength = activeButtons.length;
+  var target = e.target.innerHTML;
+  activeButtons = activeButtons.map(function(button) {
+    return button.button === target
+      ? Object.assign(button, { active: !button.active, })
+      : button;
+  });
+  renderButtons();
+  var activeSkills = activeButtons.filter(function(button) {
+    return button.active;
+  }).map(function(button) {
+    return button.button;
+  });
+  console.log(activeSkills);
+  var skillSet = skills.filter(function(skill) {
+    console.log(skill);
+    return activeSkills.indexOf(skill.type) > -1;
+  });
+  render(skillSet);
+}
+
+function shuffle() {
   var shuffledSkills = shuffleArray(skills);
   render(shuffledSkills);
 }
 
-document.querySelector('#shuffle').addEventListener('click', shuffle);
+
 
 (function() {
-
-  var buttonsContainer = document.querySelector('#buttons');
-  var categories = uniqueCategories(skills);
-
-  categories.forEach(function(cat) {
-    var color = colorIt(cat);
-    var button = createEl('div', buttonsContainer, 'link dim w3.5 tc pv2 ph3 ml2 white br-pill pointer bg-' + color);
-    button.textContent = cat;
-  })
+  document.querySelector('#shuffle').addEventListener('click', shuffle);
+  renderButtons();
   render(skills);
 })();
