@@ -4,17 +4,20 @@
 | Languages | Libraries | Testing | Tools | Databases | Other |
 | --------- | --------- | ------- | ----- | ----- |
 | JavaScript (ES5 and ES6) | React.js | Tape | Travis CI |  PostgreSQL | TDD |
-| Node.js | hapi.js | QUnit | Git | MySQL | Version control |
+| Node.js | hapi.js | QUnit | Git | MySQL | version control |
 | HTML5   | jQuery | | Webpack | Redis | Scrum |
 | CSS3    | Socket.io | | SASS | MongoDB | Pair programming |
 | SQL     | Chart.js | | Babel | | UX |
-| Markdown| Keystone.js | | NPM | | Wireframes |
+| Markdown| Keystone.js | | npm | | Wireframes |
 | Pug     |  | | Heroku | | |
 
 ## Experience
-### Founders & Coders - Full-stack developer - October 2016-present
-Participated in a 16-week full-stack coding course, acted as a mentor for the next group of students in London and in Nazareth (Israel), authored and contributed to teaching materials for the course. I'm currently working with external clients on a freelance basis, whilst still based within the Founders & Coders space and community.
 
+### Founders & Coders - Full-stack developer - October 2016-present
+* Participated in a highly competitive 16-week full-stack coding course
+* Acted as a mentor for the next group of students in London and in Nazareth (Israel)
+* Authored and contributed to teaching materials for the course
+* Currently working with external clients on a freelance basis, whilst still based within the Founders & Coders space and community.
 #### Projects
 * **Grow**  - an app for managing Goals - [GitHub repo](https://github.com/CYPIAPT-LNDSE/goals-app)
 
@@ -37,7 +40,8 @@ Campanda is an international ecommerce platform for motorhome and caravan rental
 University of Leeds - BA German (1st class) - 2008-2012
 
 ## Me as a developer
-I'm always learning something new and am curious about new frameworks, languages and technologies. I love learning through making things. I'm not afraid to tackle a problem on my own, but I also enjoy the support of a team around me.
+I'm always learning something new and am curious about new frameworks, languages and technologies. I love learning through making and building things. I'm not afraid to tackle a problem on my own, but I also enjoy the support of a team around me.
 
 ## Links
-[LinkedIn]
+[LinkedIn](https://www.linkedin.com/in/bertwe/)
+[Codewars](https://www.codewars.com/users/limeyb7)
