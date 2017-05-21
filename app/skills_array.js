@@ -1,55 +1,55 @@
 var skills = [
   {
     skill: 'HTML5',
-    type: 'language',
+    type: 'languages',
   },
   {
     skill: 'CSS3',
-    type: 'language',
+    type: 'languages',
   },
   {
     skill: 'JavaScript',
-    type: 'language',
+    type: 'languages',
   },
   {
     skill: 'Node.js',
-    type: 'language',
+    type: 'languages',
   },
   {
     skill: 'SQL',
-    type: 'language',
+    type: 'languages',
   },
   {
     skill: 'markdown',
-    type: 'language',
+    type: 'languages',
   },
   {
     skill: 'Pug',
-    type: 'language',
+    type: 'languages',
   },
   {
     skill: 'React',
-    type: 'library',
+    type: 'libraries',
   },
   {
     skill: 'Redux',
-    type: 'library',
+    type: 'libraries',
   },
   {
     skill: 'jQuery',
-    type: 'library',
+    type: 'libraries',
   },
   {
     skill: 'Socket.io',
-    type: 'library',
+    type: 'libraries',
   },
   {
     skill: 'Chart.js',
-    type: 'library',
+    type: 'libraries',
   },
   {
     skill: 'Keystone.js',
-    type: 'library',
+    type: 'libraries',
   },
   {
     skill: 'Tape',
@@ -89,19 +89,19 @@ var skills = [
   },
   {
     skill: 'PostgreSQL',
-    type: 'database',
+    type: 'databases',
   },
   {
     skill: 'MySQL',
-    type: 'database',
+    type: 'databases',
   },
   {
     skill: 'MongoDB',
-    type: 'database',
+    type: 'databases',
   },
   {
     skill: 'Redis',
-    type: 'database',
+    type: 'databases',
   },
   {
     skill: 'TDD',
@@ -126,10 +126,10 @@ var skills = [
 ];
 
 var skillTypes = [
-  'language',
-  'library',
+  'languages',
+  'libraries',
   'testing',
   'tools',
-  'database',
+  'databases',
   'other',
 ];

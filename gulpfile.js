@@ -18,9 +18,7 @@ gulp.task('useref', () =>
 
 gulp.task('watch', [ 'sync', ], () => {
   gulp.watch('app/*', (file) => {
-    if (file.type === "changed") {
-      browserSync.reload(file.path);
-    }
+    if (file.type === "changed") browserSync.reload(file.path);
   });
   gulp.watch("*.html", [ 'bs-reload', ]);
 });
