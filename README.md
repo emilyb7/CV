@@ -19,20 +19,14 @@
 * Participated in a highly competitive 16-week full-stack coding course
 * Acted as a mentor for the next group of students in London and in Nazareth (Israel)
 * Authored and contributed to teaching materials for the course
-* Currently working with external clients on a freelance basis, whilst still based within the Founders & Coders space and community.
+* Currently working with external clients on a freelance basis, whilst still based within the Founders & Coders space and community
 #### Projects
-* **Grow**  - an app for managing Goals - [GitHub repo](https://github.com/CYPIAPT-LNDSE/goals-app)
+* **Grow**  - an app for managing Goals for Anna Freud Centre - [GitHub repo](https://github.com/CYPIAPT-LNDSE/goals-app)
+* **YiMovi** - a CMS-based website for a client from UCL University [GitHub repo](https://github.com/infact-coop/yimovi)
+* **Hoofprints** - offline-first real-time monitoring app for livestock farmers (closed source)
 
 ### Campanda GmbH - Product manager - November 2013-October 2016 (Berlin)
-Campanda is an international ecommerce platform for motorhome and caravan rental.
-#### What I did
-* Managed a product backlog
-* Agile / Scrum
-* UX research, data analysis
-* Worked closely with developers, designers and senior management
-* Focused on the streamlining internal processes and writing documentation
-* Oversaw the launch of several key additions to the core product, including brand new platforms for the Spanish and Italian markets
-* Managed a small team of in-house and freelance data entry specialists, content managers and translators
+Campanda is an international ecommerce platform for motorhome and caravan rental. I worked closely with developers and designers as part of an agile/scrum team. My role included (among many things) data analysis, UX research, writing documentation, managing a product backlog, overseeing the launch of new features and products, and managing the localisation of the website in 5 languages.
 
 ### Other experience
 * Roomsurfer GmbH - Marketing intern - June-October 2013 (Berlin)
@@ -46,4 +40,5 @@ I'm always learning something new and am curious about new frameworks, languages
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/bertwe/)
+
 [Codewars](https://www.codewars.com/users/limeyb7)
