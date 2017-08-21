@@ -6,11 +6,11 @@
 | --------- | --------- | ------- | ----- | --------- | ----- |
 | JavaScript (ES5 and ES6) | React.js | Tape | Travis CI |  PostgreSQL | TDD |
 | Node.js | hapi.js | QUnit | Git | MySQL | version control |
-| HTML5   | jQuery | | Webpack | Redis | Scrum |
-| CSS3    | Socket.io | | SASS | MongoDB | Pair programming |
-| SQL     | Chart.js | | Babel | | UX |
+| HTML5   | jQuery | Jest | Webpack | Redis | Scrum |
+| CSS3    | Socket.io | Enzyme | SASS | MongoDB | Pair programming |
+| SQL     | Chart.js | | Babel | CouchDB | UX |
 | Markdown| Keystone.js | | npm | | Wireframes |
-| Pug     |  | | Heroku | | |
+| Pug     | Redux | | Heroku | | PWAs |
 
 
 ## Experience
