@@ -22,6 +22,7 @@
 * Acted as a mentor subsequent cohorts of students in London and in Nazareth (Israel)
 * Authored and contributed to a range of teaching materials
 * Currently working with external clients on a freelance basis, whilst still based within the Founders & Coders space and community
+* Find out [more](https://foundersandcoders.com)
 #### Projects
 * **Grow**  - an app for managing Goals for Anna Freud Centre - [GitHub repo](https://github.com/CYPIAPT-LNDSE/goals-app)
 * **YiMovi** - a CMS-based website for a client from UCL University [GitHub repo](https://github.com/infact-coop/yimovi)
