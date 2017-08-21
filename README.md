@@ -2,15 +2,16 @@
 ## Full-stack developer
 ## Skills
 
-| Languages | Libraries | Testing | Tools | Databases | Other |
-| --------- | --------- | ------- | ----- | --------- | ----- |
-| JavaScript (ES5 and ES6) | React.js | Tape | Travis CI |  PostgreSQL | TDD |
-| Node.js | hapi.js | QUnit | Git | MySQL | version control |
-| HTML5   | jQuery | Jest | Webpack | Redis | Scrum |
-| CSS3    | Socket.io | Enzyme | SASS | MongoDB | Pair programming |
-| SQL     | Chart.js | | Babel | CouchDB | UX |
-| Markdown| Keystone.js | | npm | | Wireframes |
-| Pug     | Redux | | Heroku | | PWAs |
+| Languages                | Frontend libraries | Frontend tools | Backend     | Testing and CI | Tools                        | Other            |
+|--------------------------|--------------------|----------------|-------------|----------------|------------------------------|------------------|
+| JavaScript (ES5 and ES6) | React              | Webpack        | Express     | Jest           | Git                          | TDD              |
+| Node.js                  | Redux              | Babel          | hapi        | Enzyme         | GitHub                       | UX               |
+| HTML5                    | React Router       | Gulp           | keystone.js | Tape           | npm                          | Wireframes       |
+| CSS3                     | Socket.io          | SASS           | Socket.io   | QUnit          | Heroku                       | Agile (Scrum)    |
+| SQL                      | Leaflet.js         | Tachyons       | PostgreSQL  | Travis CI      | Atlassian (JIRA, Confluence) | Pair programming |
+| Markdown                 | Chart.js           | Browserify     | MongoDB     |                | Trello                       |                  |
+| Pug                      | jQuery             |                | CouchDB     |                |                              |                  |
+|                          |                    |                | Redis       |                |                              |                  |
 
 
 ## Experience
