@@ -17,9 +17,10 @@
 ## Experience
 
 ### Founders & Coders - Full-stack developer - October 2016-present
-* Participated in a highly competitive 16-week full-stack coding course
-* Acted as a mentor for the next group of students in London and in Nazareth (Israel)
-* Authored and contributed to teaching materials for the course
+* Successfully completed a highly competitive 16-week full-stack coding course
+* Focus on full-stack JavaScript and progressive web technologies
+* Acted as a mentor subsequent cohorts of students in London and in Nazareth (Israel)
+* Authored and contributed to a range of teaching materials
 * Currently working with external clients on a freelance basis, whilst still based within the Founders & Coders space and community
 #### Projects
 * **Grow**  - an app for managing Goals for Anna Freud Centre - [GitHub repo](https://github.com/CYPIAPT-LNDSE/goals-app)
