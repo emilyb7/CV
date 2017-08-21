@@ -24,7 +24,7 @@
 #### Projects
 * **Grow**  - an app for managing Goals for Anna Freud Centre - [GitHub repo](https://github.com/CYPIAPT-LNDSE/goals-app)
 * **YiMovi** - a CMS-based website for a client from UCL University [GitHub repo](https://github.com/infact-coop/yimovi)
-* **Hoofprints** - offline-first real-time monitoring app for livestock farmers (closed source)
+* **Hoofprints** - offline-first web-app for tracking farm animals' movements in real time (closed source)
 
 ### Campanda GmbH - Product manager - November 2013-October 2016 (Berlin)
 Campanda is an international ecommerce platform for motorhome and caravan rental. I worked closely with developers and designers as part of an agile/scrum team. My role included (among many things) data analysis, UX research, writing documentation, managing a product backlog, overseeing the launch of new features and products, and managing the localisation of the website in 5 languages.
