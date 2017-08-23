@@ -1,9 +1,13 @@
+//- skills array imported from skills.js
+
 section.vh-100.vw-100 
     h2 Skills
     .tables.wrap
-        table.w15.pa1
+        each skill in skills
+          table.w15.pa1
             tr.h2
-              th languages
+              th=skill.type
               
-            tr.h2
-              td.tc HTML
+              each item in skill.items
+                tr.h2
+                  td.tc=item
