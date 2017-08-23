@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "| Languages                | Frontend libraries | Frontend tools | Backend     | Testing and CI | Tools                        | Other            | |--------------------------|--------------------|----------------|-------------|----------------|------------------------------|------------------| | JavaScript (ES5 and ES6) | React              | Webpack        | Express     | Jest           | Git                          | TDD              | | Node.js                  | Redux              | Babel          | hapi        | Enzyme         | GitHub                       | UX               | | HTML5                    | React Router       | Gulp           | keystone.js | Tape           | npm                          | Wireframes       | | CSS3                     | Socket.io          | SASS           | Socket.io   | QUnit          | Heroku                       | Agile (Scrum)    | | SQL                      | Leaflet.js         | Tachyons       | PostgreSQL  | Travis CI      | Atlassian (JIRA, Confluence) | Pair programming | | Markdown                 | Chart.js           | Browserify     | MongoDB     |                | Trello                       |                  | | Pug                      | jQuery             |                | CouchDB     |                |                              |                  | |                          |                    |                | Redis       |                |                              |                  |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilyb7/CV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilyb7/CV/issues"
+  },
+  "homepage": "https://github.com/emilyb7/CV#readme",
+  "dependencies": {
+    "pug": "^2.0.0-rc.3"
+  }
+}
