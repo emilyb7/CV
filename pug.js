@@ -5,4 +5,4 @@ const filePath = "templates/base.pug";
 
 const html = pug.renderFile(filePath);
 
-fs.writeFileSync(".index.html", html);
+fs.writeFileSync("./pug.html", html);
