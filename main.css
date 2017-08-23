@@ -1,76 +1,94 @@
 body {
-  font-family: 'Ubuntu Mono', monospace;
-  color: hsla(300, 15%, 30%, 0.84);
-  letter-spacing: 0.5px;
-  text-align: justify;
   margin: 0;
-  padding: 50px 0 0 20px;
+  padding: 0;
+  font-family: sans-serif;
+  position: relative;
+  letter-spacing: 0.2rem;
 }
 
-section {
-  padding: 30px 0 30px 20px;
-}
-
-h1 {
-  color: #ffd633;
-  margin-left: 10px;
-}
-
-h3 {
-  color: #ffd633;
-  margin: 0;
-  font-size: 1em;
-  font-weight: normal;
-}
-
+h1,
+h2,
 p {
-  width: 90%;
-  max-width: 600px;
-  line-height: 1.2em;
-  margin: 12px 0 12px 0;
-}
-
-a, a:active, a:visited {
-  color: hsla(300, 15%, 30%, 0.84);
-}
-
-a:hover {
-  color: #ffd633;
-}
-
-time {
-  color: #ffd633;
-}
-
-hr {
-  border-color: hsla(52, 2%, 74%, 0.16);
-}
-
-.about-me {
-  text-align: left;
-}
-
-.experience {
-  margin: 50px 0 50px 0;
-}
-
-.experience-head p {
   margin: 0;
 }
 
-.project {
-  margin: 30px 0 30px 0;
+.vh-100 {
+  height: 100vh;
 }
 
-.project p {
-  margin: 0;
+.h2 {
+  height: 2rem;
 }
 
-@media only screen and (max-width: 600px) {
-  body { padding: 0; }
-  h2 { font-size: 16px; }
-  h3 { font-size: 12px; }
-  p, time { font-size: 12px; }
-  section { padding: 10px; }
-  .experience, .project { margin: 15px 0 15px 0; }
+.vw-100 {
+  width: 100vw;
+}
+
+.w15 {
+  width: 15rem;
+}
+
+.bg-pink {
+  background: pink;
+}
+
+.bg-green {
+  background: turquoise;
+}
+
+.white {
+  color: white;
+}
+
+.tc {
+  text-align: center;
+}
+
+.scroll {
+  overflow: scroll;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.f3 {
+  font-size: 3rem;
+}
+
+.f2 {
+  font-size: 2rem;
+}
+
+.pa5 {
+  padding: 5rem;
+}
+
+.pa4 {
+  padding: 4rem;
+}
+
+.pa3 {
+  padding: 3rem;
+}
+
+.pa1 {
+  padding: 1rem;
 }
