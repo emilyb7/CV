@@ -1,10 +1,17 @@
 //- experience imported from data.js
 
-section.experience_section.vh-100.vw-100.bg-green.white
+section.experience_section.min-vh-100.vw-100.bg-green.white
   h2 experience
-  ul
+  ul.pa2
     each item in experience
       li.list
-        .experience_item
-          p=item.place
+        .experience_item.bg-pink.ma1.pa2
+          h3=item.place
+          br
+          p
+            span=item.title
+            |  -  
+            span=item.dates
+          if item.description && item.description.length
+            .description!=markdown.toHTML(item.description)
       

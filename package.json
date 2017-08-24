@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/emilyb7/CV#readme",
   "dependencies": {
+    "markdown": "^0.5.0",
     "pug": "^2.0.0-rc.3"
   },
   "devDependencies": {

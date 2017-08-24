@@ -67,20 +67,20 @@ exports.experience = [
     place: "Founders & Coders",
     title: "Full-stack developer",
     dates: "October 2016-present",
-    description: `
-    * Successfully completed a highly competitive 16-week full-stack coding course
-    * Focus on full-stack JavaScript and progressive web technologies
-    * Mentor to subsequent cohorts of students in London and in Nazareth (Israel)
-    * Authored and contributed to a range of teaching materials
-    * Currently working with external clients on a freelance basis, whilst still based within the Founders & Coders space and community
-    * Find out [more](https://foundersandcoders.com)
-    `
+    description:
+      "* Successfully completed a highly competitive 16-week full-stack coding course\n" +
+      "* Focus on full-stack JavaScript and progressive web technologies\n" +
+      "* Mentor to subsequent cohorts of students in London and in Nazareth (Israel)\n" +
+      "* Authored and contributed to a range of teaching materials\n" +
+      "* Currently working with external clients on a freelance basis, whilst still based within the Founders & Coders space and community\n" +
+      "* Find out [more](https://foundersandcoders.com)"
   },
   {
     place: "Campanda GmbH (Berlin)",
     title: "Product manager",
     dates: "November 2013-October 2016",
-    description: `Campanda is an international ecommerce platform for motorhome and caravan rental. I worked closely with developers and designers as part of an agile/scrum team. My role included (among many things) data analysis, UX research, writing documentation, managing a product backlog, overseeing the launch of new features and products, and managing the localisation of the website in 5 languages.`
+    description:
+      "Campanda is an international ecommerce platform for motorhome and caravan rental. I worked closely with developers and designers as part of an agile/scrum team. My role included (among many things) data analysis, UX research, writing documentation, managing a product backlog, overseeing the launch of new features and products, and managing the localisation of the website in 5 languages."
   },
   {
     place: "Roomsurfer GmbH (Berlin)",

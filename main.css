@@ -8,7 +8,10 @@ body {
 
 h1,
 h2,
-p {
+h3,
+p,
+ul,
+li {
   margin: 0;
 }
 
@@ -85,6 +88,10 @@ p {
   font-size: 2rem;
 }
 
+.ma1 {
+  margin: 1rem;
+}
+
 .pa5 {
   padding: 5rem;
 }
@@ -95,6 +102,10 @@ p {
 
 .pa3 {
   padding: 3rem;
+}
+
+.pa2 {
+  padding: 2rem;
 }
 
 .pa1 {
