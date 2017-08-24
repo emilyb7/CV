@@ -16,12 +16,20 @@ p {
   height: 100vh;
 }
 
+.min-vh-100 {
+  min-height: 100vh;
+}
+
 .h2 {
   height: 2rem;
 }
 
 .vw-100 {
   width: 100vw;
+}
+
+.w-90 {
+  width: 90%;
 }
 
 .w15 {
@@ -91,4 +99,8 @@ p {
 
 .pa1 {
   padding: 1rem;
+}
+
+.list {
+  list-style: none;
 }

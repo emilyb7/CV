@@ -19,17 +19,18 @@
 ### Founders & Coders - Full-stack developer - October 2016-present
 * Successfully completed a highly competitive 16-week full-stack coding course
 * Focus on full-stack JavaScript and progressive web technologies
-* Acted as a mentor subsequent cohorts of students in London and in Nazareth (Israel)
+* Mentor to subsequent cohorts of students in London and in Nazareth (Israel)
 * Authored and contributed to a range of teaching materials
 * Currently working with external clients on a freelance basis, whilst still based within the Founders & Coders space and community
 * Find out [more](https://foundersandcoders.com)
+
+
 #### Projects
 * **Grow**  - an app for managing Goals for Anna Freud Centre - [GitHub repo](https://github.com/CYPIAPT-LNDSE/goals-app)
 * **YiMovi** - a CMS-based website for a client from UCL University [GitHub repo](https://github.com/infact-coop/yimovi)
 * **Hoofprints** - offline-first web-app for tracking farm animals' movements in real time (closed source)
 
-### Campanda GmbH - Product manager - November 2013-October 2016 (Berlin)
-Campanda is an international ecommerce platform for motorhome and caravan rental. I worked closely with developers and designers as part of an agile/scrum team. My role included (among many things) data analysis, UX research, writing documentation, managing a product backlog, overseeing the launch of new features and products, and managing the localisation of the website in 5 languages.
+
 
 ### Other experience
 * Roomsurfer GmbH - Marketing intern - June-October 2013 (Berlin)
